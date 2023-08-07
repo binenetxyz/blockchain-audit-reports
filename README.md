@@ -1,2 +1,4 @@
 # blockchain-audit-reports
-The blockchain audit reports by binenet team
+Audit reports made public according to customer requirements.
+
+If you have any questions, please contact team@binenet.com
